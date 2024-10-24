@@ -1,2 +1,0 @@
-# CyberTribe
-HP Hackathon
